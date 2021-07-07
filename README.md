@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-YerinJun.
+[YerinJun](my-intro.md)의 홈페이지!
 
 You can use the [editor on GitHub](https://github.com/YerinJun/YerinJun.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
